@@ -2,7 +2,8 @@
 
 
 <button\x20onclick=\x22copyFunction()\x22\x20onmouseout=\x22outFunc()\x22\x20class=\x22btn\x20btn-success\x22>\x20<span\x20class=\x22tooltiptext\x22\x20id=\x22myTooltip\x22>Copy</span>\x20</button>\x0a<br>\x0a\x20\x20</div>\x0a\x20\x20</div>\x0a\x20\x20','substr','includes','Failed','\x20m-5\x22\x20role=\x22status\x22\x20id=\x22spinner\x22><span\x20class=\x22sr-only\x22></span></div></div>','Result3','setItem',
-'<div id="urlDisplay" style="font-size: 18px; font-weight: bold;"></div>'
+'<div\x20id=\x22urlDisplay\x22\x20style=\x22font-size:\x2018px\x3b\x20font-weight:\x20bold\x3b\x22></div>'
+
 
 
 
