@@ -2,8 +2,8 @@
 
 
 <button\x20onclick=\x22copyFunction()\x22\x20onmouseout=\x22outFunc()\x22\x20class=\x22btn\x20btn-success\x22>\x20<span\x20class=\x22tooltiptext\x22\x20id=\x22myTooltip\x22>Copy</span>\x20</button>\x0a<br>\x0a\x20\x20</div>\x0a\x20\x20</div>\x0a\x20\x20','substr','includes','Failed','\x20m-5\x22\x20role=\x22status\x22\x20id=\x22spinner\x22><span\x20class=\x22sr-only\x22></span></div></div>','Result3','setItem',
-<div id="urlDisplay" style="font-size: 18px; font-weight: bold;"></div>
-document.getElementById("urlDisplay").textContent = "Current URL: " + window.location.href;
+'<div id="urlDisplay" style="font-size: 18px; font-weight: bold;"></div>'
+
 
 
 '<div\x20class=\x22list-group-item\x20list-group-item-action\x22>','\x20text-center\x20d-none\x22\x20role=\x22alert\x22\x20id=\x22count\x22>Total\x20<span\x20class=\x22number\x20text-center\x22></span>\x20items</div>\x0a\x20\x20<div\x20id=\x22readme_md\x22\x20style=\x22display:none;\x20padding:\x2020px\x2020px;\x22></div>\x0a\x20\x20</div>\x0a\x20\x20','view','\x20<span\x20class=\x22badge\x20bg-info\x20float-end\x22>\x20','\x20padding-bottom:\x20clamp(170px,\x20100%,\x20300px);','.ko.vtt\x22\x20srclang=\x22ko\x22\x20/>\x0a\x20\x20\x20\x20<track\x20kind=\x22captions\x22\x20label=\x22Japanese\x22\x20src=\x22','645298GrGsiK','\x22>\x20<div\x20class=\x22container\x22\x20style=\x22width:\x20auto;\x20padding:\x200\x2010px;\x22>\x20<p\x20class=\x22float-end\x22>\x20<a\x20href=\x22#\x22>
